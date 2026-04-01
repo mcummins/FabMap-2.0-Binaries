@@ -118,6 +118,9 @@ Appearance-only SLAM at large scale with FAB-MAP 2.0
 Mark Cummins and Paul Newman  
 International Journal of Robotics Research, November 2010
 
+PDF: https://www.robots.ox.ac.uk/~mjc/Papers/cummins_newman_ijrr_fabmap2_2010_preprint.pdf
+Results video: https://www.youtube.com/watch?v=GRTx5ovOSHo
+
 If you use this code in your work, please cite:
 
 ```bibtex
