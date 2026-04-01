@@ -4,7 +4,7 @@ Source is available at https://github.com/mcummins/Open-Source-FabMap-2.0
 
 Pre-compiled binaries for the earlier FAB-MAP 1.0 system are also available:
  - Linux/macOS: https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Linux.tar.gz
- - Win32 : (https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Win32.zip)  
+ - Win32 : https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Win32.zip
 
 Further examples, datasets and vocabularies at: https://www.robots.ox.ac.uk/~mjc/Software.htm
 
@@ -117,7 +117,6 @@ FAB-MAP 2.0 is described in the following paper:
 Appearance-only SLAM at large scale with FAB-MAP 2.0
 Mark Cummins and Paul Newman  
 International Journal of Robotics Research, November 2010
-
 
 If you use this code in your work, please cite:
 
