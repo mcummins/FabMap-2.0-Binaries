@@ -2,11 +2,11 @@ This is a binary distribution of FAB-MAP 2.0 for Linux and MacOS
 
 Source is available at https://github.com/mcummins/Open-Source-FabMap-2.0
 
-
 Pre-compiled binaries for the earlier FAB-MAP 1.0 system are also available:
  - Linux/macOS: https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Linux.tar.gz
  - Win32 : (https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Win32.zip)  
 
+Further examples, datasets and vocabularies at: https://www.robots.ox.ac.uk/~mjc/Software.htm
 
 ===================
     LICENCE
