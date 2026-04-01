@@ -1,3 +1,13 @@
+This is a binary distribution of FAB-MAP 2.0 for Linux and MacOS
+
+Source is available at https://github.com/mcummins/Open-Source-FabMap-2.0
+
+
+Pre-compiled binaries for the earlier FAB-MAP 1.0 system are also available:
+ - Linux/macOS: https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Linux.tar.gz
+ - Win32 : (https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Win32.zip)  
+
+
 ===================
     LICENCE
 ===================
@@ -102,8 +112,21 @@ B) CONSECUTIVE FRAMES OF VIDEO ARE NOT SUITABLE INPUT FOR THE ALGORITHM.
  References
 ===================
 
-"Highly Scalable Appearance-Only SLAM Ð FAB-MAP 2.0", Mark Cummins and Paul Newman, Robotics Science and Systems 2009.
-http://www.robots.ox.ac.uk/~mobile/Papers/FABMAP%202.0%20RSS%202009.pdf
+FAB-MAP 2.0 is described in the following paper:
 
-======================================
-Last updated by rohanp on 2010/7/30 
+Appearance-only SLAM at large scale with FAB-MAP 2.0
+Mark Cummins and Paul Newman  
+International Journal of Robotics Research, November 2010
+
+
+If you use this code in your work, please cite:
+
+```bibtex
+@article{cummins2010fabmap2,
+  title={Appearance-only SLAM at large scale with FAB-MAP 2.0},
+  author={Cummins, Mark and Newman, Paul},
+  doi = {10.1177/0278364910385483}, 
+  journal={The International Journal of Robotics Research},
+  URL = {https://journals.sagepub.com/doi/10.1177/0278364910385483}, 
+  year={2010}
+}
